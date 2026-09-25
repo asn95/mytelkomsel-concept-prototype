@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" aria-hidden="true">
+  <!-- Self-drawn for this student concept (two-tone: red + ink). -->
+  <rect x="80" y="12" width="80" height="136" rx="14" fill="#FFFFFF" stroke="#16181D" stroke-width="4"/>
+  <rect x="104" y="22" width="32" height="5" rx="2.5" fill="#16181D"/>
+  <circle cx="120" cy="82" r="30" fill="none" stroke="#FDECEC" stroke-width="10"/>
+  <circle cx="120" cy="82" r="30" fill="none" stroke="#D0202A" stroke-width="10" stroke-linecap="round" stroke-dasharray="188 1" transform="rotate(-90 120 82)"/>
+  <path d="M107 83l9 9 18-20" fill="none" stroke="#16181D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 60l10 4M36 90h12M44 118l10-6M200 60l-10 4M204 90h-12M196 118l-10-6" stroke="#D0202A" stroke-width="5" stroke-linecap="round"/>
+</svg>

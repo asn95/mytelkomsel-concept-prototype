@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MyTelkomsel concept app icon">
+  <!-- Student concept — not affiliated with Telkomsel. Mark: a quota ring you can read at a glance. -->
+  <rect width="1024" height="1024" rx="224" fill="#D0202A"/>
+  <circle cx="512" cy="512" r="290" fill="none" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="92"/>
+  <circle cx="512" cy="512" r="290" fill="none" stroke="#FFFFFF" stroke-width="92" stroke-linecap="round"
+          stroke-dasharray="1275 1822" transform="rotate(-90 512 512)"/>
+  <circle cx="512" cy="512" r="92" fill="#FFFFFF"/>
+</svg>

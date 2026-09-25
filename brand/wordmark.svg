@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 120" width="620" height="120" role="img" aria-label="MyTelkomsel">
+  <!-- Student concept — not affiliated with Telkomsel. Set in Poppins (OFL). -->
+  <style>@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&amp;display=swap');
+    .my { font: 500 76px 'Poppins', sans-serif; fill: #16181D; } .tsel { font: 700 76px 'Poppins', sans-serif; fill: #D0202A; }</style>
+  <text x="0" y="88"><tspan class="my">My</tspan><tspan class="tsel">Telkomsel</tspan></text>
+</svg>

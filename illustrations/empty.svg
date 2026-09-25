@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" aria-hidden="true">
+  <!-- Self-drawn for this student concept (two-tone: red + ink). -->
+  <rect x="40" y="40" width="120" height="84" rx="10" fill="#FFFFFF" stroke="#16181D" stroke-width="4"/>
+  <rect x="56" y="58" width="60" height="8" rx="4" fill="#DDE1E6"/>
+  <rect x="56" y="76" width="88" height="8" rx="4" fill="#DDE1E6"/>
+  <rect x="56" y="94" width="40" height="8" rx="4" fill="#DDE1E6"/>
+  <circle cx="160" cy="98" r="30" fill="#FDECEC" stroke="#D0202A" stroke-width="6"/>
+  <path d="M182 120l22 22" stroke="#D0202A" stroke-width="10" stroke-linecap="round"/>
+</svg>
